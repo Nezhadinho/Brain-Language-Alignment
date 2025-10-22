@@ -1,0 +1,2 @@
+metric,n,mean,std,ci_low_95,ci_high_95,min,max,top3_models
+average_language,13,0.49,0.224,0.354,0.625,0.062,0.662,gpt-neo-1.3B=0.662; gpt2-xl=0.652; gpt-neo-2.7B=0.649

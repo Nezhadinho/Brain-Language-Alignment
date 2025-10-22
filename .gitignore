@@ -1,0 +1,31 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LaTeX build junk
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+
+# Editors
+.vscode/
+.idea/
+
+# Build/output
+build/
+dist/

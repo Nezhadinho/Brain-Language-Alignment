@@ -1,0 +1,19 @@
+layers,neurons,models
+1,200,['ETM-untrained']
+1,300,"['glove-untrained', 'word2vec-untrained']"
+1,2400,['skip-thoughts-untrained']
+2,1024,['lm_1b-untrained']
+7,512,['t5-small-untrained']
+7,768,"['distilbert-base-uncased-untrained', 'distilroberta-base-untrained', 'distilgpt2-untrained']"
+7,1024,"['xlm-mlm-enfr-1024-untrained', 'xlm-clm-enfr-1024-untrained']"
+13,768,"['bert-base-uncased-untrained', 'bert-base-multilingual-cased-untrained', 'roberta-base-untrained', 'xlm-roberta-base-untrained', 'xlnet-base-cased-untrained', 't5-base-untrained', 'albert-base-v1-untrained', 'albert-base-v2-untrained', 'openaigpt-untrained', 'gpt2-untrained']"
+13,1024,['xlm-mlm-xnli15-1024-untrained']
+13,2048,['xlm-mlm-en-2048-untrained']
+13,4096,"['albert-xxlarge-v1-untrained', 'albert-xxlarge-v2-untrained']"
+17,1280,['xlm-mlm-100-1280-untrained']
+19,1024,['transfo-xl-wt103-untrained']
+25,1024,"['bert-large-uncased-untrained', 'bert-large-uncased-whole-word-masking-untrained', 'roberta-large-untrained', 'xlm-roberta-large-untrained', 'xlnet-large-cased-untrained', 't5-large-untrained', 't5-3b-untrained', 't5-11b-untrained', 'albert-large-v1-untrained', 'albert-large-v2-untrained', 'gpt2-medium-untrained']"
+25,2048,"['albert-xlarge-v1-untrained', 'albert-xlarge-v2-untrained']"
+37,1280,['gpt2-large-untrained']
+49,1280,['ctrl-untrained']
+49,1600,['gpt2-xl-untrained']

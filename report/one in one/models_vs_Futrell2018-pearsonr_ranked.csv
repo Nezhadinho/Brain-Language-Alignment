@@ -1,0 +1,11 @@
+rank,model,Futrell2018-pearsonr
+1,openai-gpt,0.387
+2,gpt2,0.367
+3,distilgpt2,0.361
+4,gpt-neo-125m,0.358
+5,gpt2-medium,0.35
+6,gpt2-large,0.331
+7,gpt-neo-1.3B,0.324
+8,gpt2-xl,0.318
+9,gpt-neo-2.7B,0.308
+10,lm1b,0.286

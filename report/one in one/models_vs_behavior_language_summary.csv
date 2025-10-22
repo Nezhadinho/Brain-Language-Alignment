@@ -1,0 +1,2 @@
+metric,n,mean,std,ci_low_95,ci_high_95,min,max,top3_models
+behavior_language,10,0.339,0.031,0.317,0.361,0.286,0.387,openai-gpt=0.387; gpt2=0.367; distilgpt2=0.361

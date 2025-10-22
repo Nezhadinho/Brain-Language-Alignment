@@ -1,0 +1,8 @@
+,neural,average_language,Pereira2018_linear,Pereira2018.243sentences-linear,Pereira2018.384sentences-linear,behavior_language,Futrell2018-pearsonr
+neural,13.0,13.0,13.0,13.0,13.0,10.0,10.0
+average_language,13.0,13.0,13.0,13.0,13.0,10.0,10.0
+Pereira2018_linear,13.0,13.0,13.0,13.0,13.0,10.0,10.0
+Pereira2018.243sentences-linear,13.0,13.0,13.0,13.0,13.0,10.0,10.0
+Pereira2018.384sentences-linear,13.0,13.0,13.0,13.0,13.0,10.0,10.0
+behavior_language,10.0,10.0,10.0,10.0,10.0,10.0,10.0
+Futrell2018-pearsonr,10.0,10.0,10.0,10.0,10.0,10.0,10.0

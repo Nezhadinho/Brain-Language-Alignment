@@ -1,0 +1,14 @@
+rank,model,average_language
+1,gpt-neo-1.3B,0.662
+2,gpt2-xl,0.652
+3,gpt-neo-2.7B,0.649
+4,gpt2-large,0.639
+5,gpt2-medium,0.634
+6,gpt2,0.608
+7,openai-gpt,0.594
+8,distilgpt2,0.59
+9,gpt-neo-125m,0.571
+10,lm1b,0.433
+11,randomembedding-1600,0.166
+12,glove-840b,0.107
+13,randomembedding-100,0.062

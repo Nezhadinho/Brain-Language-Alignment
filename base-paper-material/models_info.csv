@@ -1,0 +1,44 @@
+Model Name,Architecture,Number of Neurons,Number of Layers,Num Attention Heads,Type
+ETM,ETM,300,1.0,0.0,Topic Model
+albert-base-v1,ALBERT,768,12.0,12.0,Transformer
+albert-base-v2,ALBERT,768,12.0,12.0,Transformer
+albert-large-v1,ALBERT,1024,24.0,16.0,Transformer
+albert-large-v2,ALBERT,1024,24.0,16.0,Transformer
+albert-xlarge-v1,ALBERT,2048,24.0,16.0,Transformer
+albert-xlarge-v2,ALBERT,2048,24.0,16.0,Transformer
+albert-xxlarge-v1,ALBERT,4096,12.0,64.0,Transformer
+albert-xxlarge-v2,ALBERT,4096,12.0,64.0,Transformer
+bert-base-multilingual-cased,BERT,768,12.0,12.0,Transformer
+bert-base-uncased,BERT,768,12.0,12.0,Transformer
+bert-large-uncased,BERT,1024,24.0,16.0,Transformer
+bert-large-uncased-whole-word-masking,BERT,1024,24.0,16.0,Transformer
+ctrl,CTRL,1280,48.0,16.0,Transformer
+distilbert-base-uncased,DISTILBERT,768,6.0,12.0,Transformer
+distilgpt2,GPT2,768,6.0,12.0,Transformer
+distilroberta-base,ROBERTA,768,6.0,12.0,Transformer
+glove,GloVe,300,1.0,0.0,Word Embedding
+gpt2,GPT2,768,12.0,12.0,Transformer
+gpt2-large,GPT2,1280,36.0,20.0,Transformer
+gpt2-medium,GPT2,1024,24.0,16.0,Transformer
+gpt2-xl,GPT2,1600,48.0,25.0,Transformer
+lstm lm1b,LSTM,1024,2.0,0.0,RNN Language Model
+openaigpt,GPT,768,12.0,12.0,Transformer
+roberta-base,ROBERTA,768,12.0,12.0,Transformer
+roberta-large,ROBERTA,1024,24.0,16.0,Transformer
+skip-thoughts,GRU,2400,1.0,0.0,Sentence Embedding
+t5-11b,T5,1024,24.0,128.0,Transformer
+t5-3b,T5,1024,24.0,32.0,Transformer
+t5-base,T5,768,12.0,12.0,Transformer
+t5-large,T5,1024,24.0,16.0,Transformer
+t5-small,T5,512,6.0,8.0,Transformer
+transfo-xl-wt103,TRANSFO-XL,1024,18.0,16.0,Transformer
+w2v,Word2Vec,300,1.0,0.0,Word Embedding
+xlm-clm-enfr-1024,XLM,1024,6.0,8.0,Transformer
+xlm-mlm-100-1280,XLM,1280,16.0,16.0,Transformer
+xlm-mlm-en-2048,XLM,2048,12.0,16.0,Transformer
+xlm-mlm-enfr-1024,XLM,1024,6.0,8.0,Transformer
+xlm-mlm-xnli15-1024,XLM,1024,12.0,8.0,Transformer
+xlm-roberta-base,XLM-ROBERTA,768,12.0,12.0,Transformer
+xlm-roberta-large,XLM-ROBERTA,1024,24.0,16.0,Transformer
+xlnet-base-cased,XLNET,768,12.0,12.0,Transformer
+xlnet-large-cased,XLNET,1024,24.0,16.0,Transformer

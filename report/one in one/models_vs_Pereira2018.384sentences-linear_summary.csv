@@ -1,0 +1,2 @@
+metric,n,mean,std,ci_low_95,ci_high_95,min,max,top3_models
+Pereira2018.384sentences-linear,13,0.733,0.292,0.556,0.909,0.184,1.0,gpt2-xl=1.000; gpt-neo-2.7B=1.000; gpt-neo-1.3B=1.000
