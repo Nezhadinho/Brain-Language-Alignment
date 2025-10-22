@@ -1,15 +1,22 @@
 # OS
 .DS_Store
+Thumbs.db
+
+# Editors / IDE
+.vscode/
+.idea/
 
 # Python
 __pycache__/
-*.pyc
-.ipynb_checkpoints/
+*.py[cod]
+.venv/
+venv/
+env/
 
 # Jupyter
 .ipynb_checkpoints/
 
-# LaTeX build junk
+# LaTeX build artifacts
 *.aux
 *.bbl
 *.blg
@@ -21,11 +28,9 @@ __pycache__/
 *.toc
 *.nav
 *.snm
+*.lof
+*.lot
 
-# Editors
-.vscode/
-.idea/
-
-# Build/output
+# Build/Dist
 build/
 dist/
